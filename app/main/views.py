@@ -1,6 +1,6 @@
 from . import main
 from flask import render_template
-from ..requests import NewsRequests
+from .request import NewsRequests
 
 
 @main.route('/')
