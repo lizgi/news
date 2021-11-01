@@ -29,3 +29,4 @@ Github -- lizgi
 
 
 ## License 
+https://github.com/lizgi/news/blob/master/LICENSE
