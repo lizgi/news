@@ -19,7 +19,7 @@
     
         <div class="row">
             {% for article in articles %}
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="cards">
                     <div class="card-body d-flex mt-2" style="width: 24rem;">
                         <div class="card-cont">
@@ -28,7 +28,7 @@
                             <h5 style="color: black;"> {{ article.title }} </h5>
                             <p> {{ article.description }} </p>
                             <p style="color: red;"> {{ article.publishedAt  }} </p>
-                            <a class="btn btn-warning" target="_blank" href=" {{ article.url }} ">Read More</a>
+                            <a class="btn btn-warning" target="_blank" href=" {{ article.url }} ">Visit Site</a>
                         </div>
                     </div>
                 </div>
