@@ -1,6 +1,6 @@
 ## News_On_The_Go
 
-This is a flask application consuming API to get news sources and retrieve news articles in different sources available to help users keep up with current affairs. It compiles all news of the day and providing links for further site exploration.
+A flask application consuming API to get news sources and retrieve news articles in different sources available to help users keep up with current affairs. It compiles all news of the day and providing links for further site exploration.
 
 ## project Setup Instructions
 Clone the repository.

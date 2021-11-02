@@ -2,3 +2,5 @@ virtual/
 *.pyc
 instance/
 start.sh/
+requests.py/
+
