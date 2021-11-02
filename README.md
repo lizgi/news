@@ -1,5 +1,8 @@
 ## News_On_The_Go
 
+created by ELIZABETH GIKONYO
+
+## DESCRIPTION
 A flask application consuming API to get news sources and retrieve news articles in different sources available to help users keep up with current affairs. It compiles all news of the day and providing links for further site exploration.
 
 ## project Setup Instructions
@@ -10,6 +13,7 @@ Install all the requirements in * requirements.txt *
 Add a env file and include a base url to the NEWS API and also add you API KEY to the file
 
 To run the application execute manage.py file using python3 manage.py server command
+
 To run the tests use python manage.py test
 
 ## User Story
@@ -23,9 +27,14 @@ To run the tests use python manage.py test
 ## Technologies used.
 Python
 
-## Developer or Author Name
-Elizabeth Gikonyo
-Github -- lizgi
+Bootstrap
+
+Flask
+
+NewsApi
+
+## BUGS
+No known bug.
 
 
 ## License 
